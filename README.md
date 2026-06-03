@@ -15,7 +15,7 @@ This project implements an end-to-end analytics workflow across two major platfo
 - **Language:** Python 3.14.5
 - **Libraries Used:** Pandas, NumPy, Matplotlib, Seaborn
 - **BI Platform:** Tableau Public / Tableau Desktop
-- **Dataset Source:** [Paste your Kaggle or course dataset link here]
+- **Dataset Source:** [Paste your Kaggle or course dataset link here][https://github.com/paladitya2077-datawizard/data-analyst-capstone-project/tree/b050915d984bfb822de36263873c315cfc146d1d/data]
 
 ---
 
