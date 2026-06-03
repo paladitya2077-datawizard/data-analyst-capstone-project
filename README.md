@@ -58,3 +58,10 @@ Below is a visual preview of the executive reporting layout built in Tableau:
 1. Open the `/notebooks` folder to read through the documented Python code and data cleaning choices.
 2. Open the `/data` folder to view the structured layout of the target variables.
 3. Click the Tableau Public link above to test the interactive dashboard.
+
+---
+
+## How to Explore this Project
+1. 📂 **[View Jupyter Notebook](./notebooks/Aditya%20Pal%20Marketing%20Capstone%20Project.ipynb):** Read through the documented Python code, currency conversions, and data cleaning choices.
+2. 📊 **[View Cleaned Dataset](./data/Cleaned_data_and_country.xlsx):** View the final multi-source combined output variables.
+3. 🗃️ **[Browse Raw Source Data](./data/):** Access original raw metrics including `data.xlsx` and `Country-Code.xlsx`.
