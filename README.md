@@ -50,11 +50,11 @@ Below is a visual preview of the executive reporting layout built in Tableau:
 
 ![Executive Dashboard Preview](./visuals/your_screenshot_name.png)
 
-🔗 **[Click Here to Interact with the Live Tableau Dashboard](Paste your Tableau Public URL here)**
+**[Click Here to Interact with the Live Tableau Dashboard](Paste your Tableau Public URL here)**
 
 ---
 
-## 🚀 How to Explore this Project
+## How to Explore this Project
 1. Open the `/notebooks` folder to read through the documented Python code and data cleaning choices.
 2. Open the `/data` folder to view the structured layout of the target variables.
 3. Click the Tableau Public link above to test the interactive dashboard.
