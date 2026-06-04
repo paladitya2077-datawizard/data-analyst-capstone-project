@@ -48,7 +48,7 @@ This project implements an end-to-end analytics workflow across two major platfo
 ### Interactive Dashboard Showcase
 Below is a visual preview of the executive marketing reporting layout built in Tableau:
 
-![Executive Dashboard Preview](./visuals/Screenshot%202026-06-02%20184912.png)
+![Executive Dashboard Preview](https://github.com/paladitya2077-datawizard/data-analyst-capstone-project/blob/5451ba84777ce3f02f8b6084504e963669cd666a/visuals/Screenshot%202026-06-02%20193530.png)
 
 **[Click Here to Interact with the Live Tableau Dashboard](https://public.tableau.com/views/AdityaPalMarektingCapstoneProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
@@ -56,5 +56,5 @@ Below is a visual preview of the executive marketing reporting layout built in T
 
 ## How to Explore this Project
 1. 📂 **[View Jupyter Notebook](https://github.com/paladitya2077-datawizard/data-analyst-capstone-project/blob/999d0208822657f4eea6a07dc7ccd505e207b014/notebooks/Aditya%20Pal%20Marketing%20Capstone%20Project.ipynb)** Read through the documented Python code, currency conversions, and data cleaning choices.
-2. 📊 **[View Cleaned Dataset](./data/Cleaned_data_and_country.xlsx):** View the final multi-source combined output variables.
-3. 🗃️ **[Browse Raw Source Data](./data/):** Access original raw metrics including `data.xlsx` and `Country-Code.xlsx`.
+2. 📊 **[View Cleaned Dataset](https://github.com/paladitya2077-datawizard/data-analyst-capstone-project/blob/5451ba84777ce3f02f8b6084504e963669cd666a/data/Cleaned_data_and_country.xlsx:)** View the final cleaned and combined data.
+3. 🗃️ **[Browse Raw Source Data](https://github.com/paladitya2077-datawizard/data-analyst-capstone-project/tree/5451ba84777ce3f02f8b6084504e963669cd666a/data):** Access original raw data including `data.xlsx`, `Country-Code.xlsx` and 'varaible description'.
